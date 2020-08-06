@@ -1,6 +1,7 @@
 # 2D_3D_Web_Game_Test_Sample_P5.js
-2D / 3D Web Game Test Samples Source based in P5.js 
+2D Game / 3D WebGL Game Test Samples Source based in P5.js 
 
+Specially, I`m trying to study individual 3D WebGL Game Development based in P5.js
 This is the only Samples & Demo
 
 Sample Example Templates for P5.js WebGL Game Development 
