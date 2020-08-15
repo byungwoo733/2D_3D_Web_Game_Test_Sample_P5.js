@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="ko_KR" version="6.13.0" title="Shotcut version 19.02.28" producer="main_bin">
+  <profile description="automatic" width="640" height="480" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="640" display_aspect_den="480" frame_rate_num="30000" frame_rate_den="1000" colorspace="601"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.033">
+    <property name="length">122</property>
+    <property name="eof">pause</property>
+    <property name="resource">Spread-Wing-Studio-Intro-Animation_English_.mov</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b2bf82c7f4575eee2c34ad84445ed5e5</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:04.033"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:08.000">
+    <property name="length">241</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:08.000"/>
+  </playlist>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.033">
+    <property name="length">00:00:04:02</property>
+    <property name="eof">pause</property>
+    <property name="resource">Spread-Wing-Studio-Intro-Animation_English_.mov</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">b2bf82c7f4575eee2c34ad84445ed5e5</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Spread-Wing-Studio-Intro-Animation_English_.mov</property>
+    <property name="shotcut:detail">C:\Users\Administrator\Documents\p5.js\Game\Spread-Wing-Studio-Intro-Animation_English_.mov</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Administrator/Documents/image/Test_Texture.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d08ba0c430280afbb1dccfc90b6907f9</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.067">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer1" in="00:00:03.967" out="00:00:04.033"/>
+    <track producer="producer2" in="00:00:00.000" out="00:00:00.067"/>
+    <transition id="transition0" out="00:00:00.067">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.067">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <blank length="00:00:00.067"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.933"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.067"/>
+    <entry producer="producer2" in="00:00:00.100" out="00:00:03.967"/>
+  </playlist>
+  <tractor id="tractor1" title="Shotcut version 19.02.28" global_feed="1" in="00:00:00.000" out="00:00:08.000">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">27.01</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
