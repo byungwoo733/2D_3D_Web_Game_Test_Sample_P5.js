@@ -9,3 +9,10 @@ Sample Example Templates for P5.js WebGL Game Development
 
 Unfortunately, I guess it doesn`t support to 3D Rigged Character (.fbx)
 (Only support .obj & .stl P5.js)
+
+==========================
+
+Free Sprite Sheet Packer
+https://www.codeandweb.com/free-sprite-sheet-packer
+
+
