@@ -10,6 +10,8 @@ Sample Example Templates for P5.js WebGL Game Development
 Unfortunately, I guess it doesn`t support to 3D Rigged Character (.fbx)
 (Only support .obj & .stl P5.js)
 
+Relation with this project -> https://github.com/byungwoo733/processing
+
 ==========================
 
 Processing to P5.js Converter:
