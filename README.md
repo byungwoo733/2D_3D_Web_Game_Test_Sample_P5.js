@@ -60,7 +60,7 @@ Tizen Studio
 
 Tizen
 
-Tizen - Bsd 3 Clause / MIT License Version
+Tizen - BSD 3 License Version
 
 https://www.tizen.org/bsd-3-clause-license?langredirect=1
 
