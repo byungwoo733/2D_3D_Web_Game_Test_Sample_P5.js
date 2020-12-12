@@ -52,16 +52,16 @@ Raspberry Pi Series & Arduino Series
 
 ==========================
 
-[Development Tool]
+[Application Development Tool]
 
-Tizen Studio
+Tizen Studio / Visual Studio Code / Processing 3 
 
 --------------------------
 
+[OS Platform]
+
 Tizen
 
-Tizen - BSD 3 License Version
+Tizen - BSD 3 Clause License Version
 
 https://www.tizen.org/bsd-3-clause-license?langredirect=1
-
-https://git.tizen.org/cgit/
