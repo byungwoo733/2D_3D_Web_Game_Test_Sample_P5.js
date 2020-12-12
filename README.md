@@ -29,3 +29,19 @@ https://www.codeandweb.com/free-sprite-sheet-packer
 Video Game Control Hardware Kits:
 
 Raspberry Pi Series & Arduino Series
+
+==========================
+
+[Development Tool]
+
+Tizen Studio
+
+--------------------------
+
+Tizen
+
+Tizen - Bsd 3 Clause / MIT License Version
+
+https://www.tizen.org/bsd-3-clause-license?langredirect=1
+
+https://git.tizen.org/cgit/
