@@ -20,6 +20,20 @@ https://pde2js.herokuapp.com/
 
 ==========================
 
+[2D Online / Offline Sprite Design Tool]
+
+PISKEL
+
+https://www.piskelapp.com/
+
+[3D Charactor Modeling Tool]
+
+Blender
+
+Sculptris
+
+==========================
+
 Free Sprite Sheet Packer:
 
 https://www.codeandweb.com/free-sprite-sheet-packer
