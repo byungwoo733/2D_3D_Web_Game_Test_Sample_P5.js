@@ -20,17 +20,23 @@ https://pde2js.herokuapp.com/
 
 ==========================
 
-[2D Online / Offline Sprite Design Tool]
+[2D Free Software Online / Offline Sprite Design Tool]
 
 PISKEL
 
 https://www.piskelapp.com/
 
-[3D Charactor Modeling Tool]
+==========================
+
+[3D Charactor Free Software Modeling Tool]
 
 Blender
 
-Sculptris
+https://www.blender.org/
+
+ZBrushCoreMini (Formaly. Sculptris)
+
+https://zbrushcore.com/mini/
 
 ==========================
 
