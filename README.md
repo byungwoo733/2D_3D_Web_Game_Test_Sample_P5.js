@@ -54,7 +54,7 @@ Raspberry Pi Series & Arduino Series
 
 [Application Development Tool]
 
-Tizen Studio / Visual Studio Code / Processing 3 
+Tizen Studio / Visual Studio Code / p5.js
 
 --------------------------
 
