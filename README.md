@@ -40,6 +40,10 @@ LMMS
 
 https://lmms.io/
 
+Audacity
+
+https://www.audacityteam.org/
+
 ==========================
 
 Video Game Control Hardware Kits:
