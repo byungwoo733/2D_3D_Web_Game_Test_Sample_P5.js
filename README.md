@@ -32,7 +32,7 @@ Sonic Pi
 
 https://sonic-pi.net/
 
-Online Sequncer
+Online Sequencer
 
 https://onlinesequencer.net/
 
