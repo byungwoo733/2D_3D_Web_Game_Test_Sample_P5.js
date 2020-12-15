@@ -28,6 +28,20 @@ https://www.piskelapp.com/
 
 ==========================
 
+[Tile Map Editor]
+
+Tiled Map Editor:
+
+https://www.mapeditor.org/
+
+==========================
+
+Free Sprite Sheet Packer:
+
+https://www.codeandweb.com/free-sprite-sheet-packer
+
+==========================
+
 [3D Charactor Free Software Modeling Tool]
 
 Blender
@@ -37,12 +51,6 @@ https://www.blender.org/
 ZBrushCoreMini (Formaly. Sculptris)
 
 https://zbrushcore.com/mini/
-
-==========================
-
-Free Sprite Sheet Packer:
-
-https://www.codeandweb.com/free-sprite-sheet-packer
 
 ==========================
 
