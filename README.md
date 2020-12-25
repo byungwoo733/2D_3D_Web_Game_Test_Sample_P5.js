@@ -78,6 +78,12 @@ Video Game Control Hardware Kits:
 
 Raspberry Pi Series & Arduino Series
 
+Raspberry Pi Editor: VI Editor
+
+Arduino Web Editor:
+
+https://create.arduino.cc/
+
 ==========================
 
 [Application Development Tool]
