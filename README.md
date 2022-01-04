@@ -100,6 +100,8 @@ Tizen Studio / Visual Studio Code / p5.js / Web Assembly
 
 [Online Web Editor]
 
+Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
+
 p5.js Web Editor
 
 https://editor.p5js.org/
