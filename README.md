@@ -64,9 +64,9 @@ Blender
 
 https://www.blender.org/
 
-ZBrushCoreMini (Formaly. Sculptris)
+Sculptris Download
 
-https://zbrushcore.com/mini/
+https://sculptris.kr.uptodown.com/windows/download
 
 ==========================
 
