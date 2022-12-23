@@ -40,7 +40,6 @@ https://bernhardfritz.github.io/libxd/#/
 
 https://bernhardfritz.github.io/piksel/#/
 
--------------------------------------
 Hardware accelerated rendering
 Can be compiled to WebAssembly
 Intuitive API similar to Processing
